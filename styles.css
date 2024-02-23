@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+h1,h2{
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+a{
+    text-decoration-line: none;
+}
+
+.abc{
+    box-sizing: ;
+}
+
+body{
+    background-color: rgb(204, 204, 204);
+}
+.video {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+  border-radius: 10px;
+}
+#abc{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+  border-radius: 10px;
+
+
+}
